@@ -1,0 +1,3 @@
+#!/bin/bash
+
+php ~/bin/f8organize/run_f8organize.php "$0" "$1" "$2" "$3"
